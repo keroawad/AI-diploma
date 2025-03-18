@@ -1,2 +1,2 @@
-# python-tasks
-python tasks 
+AI diploma
+ 
